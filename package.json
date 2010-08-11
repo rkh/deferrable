@@ -1,0 +1,13 @@
+{
+  "name":         "deferrable",
+  "version":      "0.1.0",
+  "main":         "./lib/deferrable.js",
+  "description":  "Callback indirection for JavaScript",
+  "homepage":     "http://github.com/rkh/deferrable",
+  "author":       "Konstantin Haase <k.haase@finn.de>",
+  "keywords":     ["events", "deferrable", "concurency", "async"],
+  "maintainers":  [{"name": "Konstantin Haase", "email": "k.haase@finn.de", "web": "http://rkh.im"}],
+  "bugs":         {"web": "http://github.com/rkh/deferrable/issues"},
+  "repositories": [{"type": "git", "url": "http://github.com/rkh/deferrable.git"}],
+  "licenses":     [{"type": "UoI-NCSA", "url":  "http://github.com/rkh/deferrable/blob/master/LICENSE"}]
+}
