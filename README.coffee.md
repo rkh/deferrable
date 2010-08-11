@@ -98,25 +98,5 @@ run `rake build` and open `test/deferrable_test.js`
 ## Requirements
 Supported platforms:
 
-* Any common web browser with js support
-** Netscape 4.0 or later
-** Internet Explorer 5.5 or later
-** Opera 5.12 or later
-** Firefox 1.0 or later
-** Konqueror 3.1 or later
-** Safari
-** Chrome
-* Any CommonJS implementation supporting Modules 1.x
-** CoucheDB 0.11 or later
-** Ejscript 2.0 or later
-** Flusspferd
-** GPSEE
-** Narwhal 0.1 or later (0.2 or later recommended)
-** Perserve
-** RingoJS
-** Smart Platform
-** SproutCore 1.1 or later
-** Wakanda
-** Yabble
-** node.js
-** v8cgi
+* Any common web browser with js support (Netscape 4.0 or later, Internet Explorer 5.5 or later, Opera 5.12 or later, Firefox 1.0 or later, Konqueror 3.1 or later, Safari, Chrome, ...)
+* Any CommonJS implementation supporting Modules 1.x (CoucheDB 0.11 or later, Ejscript 2.0 or later, Flusspferd, GPSEE, Narwhal 0.1 or later, Perserve, RingoJS, Smart Platform, SproutCore 1.1 or later, Wakanda, Yabble, node.js, v8cgi)
