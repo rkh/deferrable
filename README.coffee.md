@@ -69,6 +69,7 @@ is probably handing over the body and header of an AJAX response. In order to do
       displayContent body
 
 ## Setup
+Download the source from here or install via npm: `npm install deferrable`.
 
 ### In the browser
 Store [deferrable.js](http://github.com/rkh/deferrable/blob/master/lib/deferrable.js) somewhere and load
